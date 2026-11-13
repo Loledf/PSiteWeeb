@@ -1,0 +1,13 @@
+{
+  "category": "reports",
+  "title": "Write-up In the Ruins",
+  "description": "Отчет по OSINT-GEOINT расследованию от «Bellingcat»",
+  "type": "author report",
+  "background": "image/report3.jpg",
+  "number": "#R-003",
+  "meta": "@webpowe",
+  "link": "reports/report3.pdf",
+  "button": "Скачать PDF",
+  "enabled": true,
+  "full_description": "Подробный отчёт о проведённом расследовании. Здесь можно указать дополнительные сведения, методологию и результаты."
+}
